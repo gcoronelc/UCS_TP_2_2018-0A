@@ -1,0 +1,24 @@
+PROYECTO: EDUTEC
+=============================
+
+Motor de BD: SQL Server
+Lenguaje:    Java
+Plataforma:  Java EE
+Servidor:    Apache tomcat
+IDE:         Eclipse
+
+CONTENIDO DEL INFORME
+==============================
+
+- Caratula
+- Indice
+- Resumen ejecutivo
+- Arquitectura de la Solución
+- Modelo de la Base de Datos
+- Descripción y Diseño de todos los procesos
+- Implementación de Procesos
+- Implementación de la Aplicación
+- Lecciones Aprendidas
+- Recomendaciones / Observaciones
+
+
