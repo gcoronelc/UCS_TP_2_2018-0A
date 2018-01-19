@@ -1,0 +1,19 @@
+REQUERIMIENTO
+==================================
+Desarrollar una aplicación
+Java Web que permita calcular
+la suma y el producto de 
+dos números.
+
+SERVICIOS A IMPLEMENTAR
+===================================
+
+1.- calcSuma
+
+    Calcula la suma de dos números.
+	
+2.- calcProducto
+
+    Calcula el producto de dos números.
+
+	

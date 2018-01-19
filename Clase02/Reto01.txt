@@ -1,0 +1,3 @@
+Desarrollar una aplicación web con Java EE, 
+que permita calcular el importe, impuesto
+y total de una venta.
