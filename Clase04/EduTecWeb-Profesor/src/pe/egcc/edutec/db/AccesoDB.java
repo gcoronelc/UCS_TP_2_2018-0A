@@ -21,8 +21,8 @@ public class AccesoDB {
       // Datos SQL Server
       String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
       String url = "jdbc:sqlserver://localhost:1433;databaseName=EDUTEC";
-      String user = "super";
-      String pass = "admin";
+      String user = "sa";
+      String pass = "123";
       // Cargar el driver a memoria
       Class.forName(driver).newInstance();
       // Obtener el objeto Connection
