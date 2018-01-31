@@ -53,7 +53,7 @@
 
 
 
-## JAVA ORIENTADO A OBJECTOS
+## JAVA ORIENTADO A OBJETOS
 
 - Java Fundamentos 01: http://www.slideshare.net/GustavoCoronel/java-fundamentos-01-introduccin
 - Pensando en servicios - 1: http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
