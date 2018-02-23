@@ -1,0 +1,23 @@
+REQNEG009: Eliminar matricula
+--------------------------------------------------------------------
+Se elimina el registro de la matricula solo en los siguientes casos:
+- Ciclo Actual: Si el curso tiene a lo más 5 alumnos matriculados.
+- Ciclos Futuros: Procede sin problemas.
+
+
+
+REQNEG010: Cambio de curso
+--------------------------------------------------------------------
+Este caso permite a un estudiante cambiar de curso, 
+solo procede en el ciclo actual y ciclos futuros.
+
+
+
+RUBRICA
+--------------------------------------------------------------------
+- Service: 10 Puntos
+- Prueba:  5  Puntos (5 pruebas por requeriminto)
+- View y Controller: 5 Puntos
+
+
+
