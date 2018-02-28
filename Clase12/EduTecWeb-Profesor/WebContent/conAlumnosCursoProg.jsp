@@ -58,7 +58,8 @@
                   
                   </table>
                 
-                
+				  <p id="mensaje"></p>
+				  
                 </fieldset>
                 
             </div>
@@ -123,6 +124,8 @@
 	        function fnConsultar2( lista ){
 	        	
 	        	$("#repoBody").empty();
+				
+				$("#mensaje").html = "Hola todos";
 	            
             $.each(lista, function( index, dto ) {
                var dataRow = "<tr><td>";

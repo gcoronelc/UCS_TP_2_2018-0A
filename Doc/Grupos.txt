@@ -1,14 +1,23 @@
-GRUPO 01
+﻿GRUPO 01
 ----------------
 - Castillo Castillo 
 - Arias Nicolas
 - Medina Anchita
 
+REQNEG001
+REQNEG007
+REQMAN001
+
+
 GRUPO 02
 -----------------
 - Soto
 - Mendoza
-- 
+
+REQNEG003
+REQNEG008
+REQMAN002 
+
 
 GRUPO 03
 -------------------
@@ -16,15 +25,28 @@ GRUPO 03
 - Azañero
 - Inga Pablo
 
+REGNEG004
+REQNEG010
+REQMAN003
+
+
 GRUPO 04
 --------------------
 - Amado Alonzo
 - Dueñas Manuel
+
+REQNEG005
+REQSEG002
+REQMAN004
+
 
 GRUPO 05
 ---------------------
 - Fernandez
 - Castillo
 
+REQNEG006
+REQCON002
+REQMAN005
 
 
